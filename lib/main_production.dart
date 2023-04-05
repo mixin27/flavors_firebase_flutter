@@ -16,6 +16,7 @@ void main() async {
     options: DefaultFirebaseOptionsProd.currentPlatform,
   );
 
+  // // NOTE: uncomment this condition in release build
   // if (!kDebugMode || kProfileMode) {
   // Pass all uncaught "fatal" errors from the framework to Crashlytics
   FlutterError.onError = (errorDetails) {
