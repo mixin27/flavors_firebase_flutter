@@ -1,6 +1,6 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:firebase_crashlytics/firebase_crashlytics.dart';
-import 'package:flavors_firebase/firebase/firebase_options_dev.dart';
+import 'package:flavors_firebase/firebase_options/firebase_options_dev.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'app.dart';

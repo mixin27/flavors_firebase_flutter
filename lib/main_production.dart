@@ -2,7 +2,7 @@ import 'dart:ui';
 
 import 'package:firebase_core/firebase_core.dart';
 import 'package:firebase_crashlytics/firebase_crashlytics.dart';
-import 'package:flavors_firebase/firebase/firebase_options_prod.dart';
+import 'package:flavors_firebase/firebase_options/firebase_options_prod.dart';
 import 'package:flutter/material.dart';
 import 'app.dart';
 import 'flavors.dart';
