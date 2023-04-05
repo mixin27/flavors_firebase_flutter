@@ -11,8 +11,20 @@ class MyHomePage extends StatelessWidget {
         title: Text(F.title),
       ),
       body: Center(
-        child: Text(
-          'Hello ${F.title}',
+        child: Column(
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: [
+            Text(
+              'Hello ${F.title}',
+            ),
+            const SizedBox(height: 20),
+            TextButton(
+              onPressed: () {
+                throw Exception();
+              },
+              child: const Text('Throw Test Exception'),
+            ),
+          ],
         ),
       ),
     );
