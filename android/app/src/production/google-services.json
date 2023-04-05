@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "999940556256",
+    "project_id": "flavors-firebase-demo-prod",
+    "storage_bucket": "flavors-firebase-demo-prod.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999940556256:android:fd0d469c2966e8e1b71785",
+        "android_client_info": {
+          "package_name": "dev.mixin27.flavors_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999940556256-dklve6kvsko5a44esvk2eiv0mnld9p32.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt1i-DzEBInZGo8PpadIpbrS4y8RNO5v4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999940556256-dklve6kvsko5a44esvk2eiv0mnld9p32.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
